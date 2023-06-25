@@ -35,7 +35,8 @@ Como usar
 
 Imagem
 
-![Imagem do Projeto](/home/anderson/Imagens/projeto-respos.png)
+![Descrição da imagem](file:///home/anderson/Imagens/projeto-respos.png)
+
 
 Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias para este projeto, siga as etapas abaixo:
