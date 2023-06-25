@@ -33,6 +33,10 @@ Como usar
 3. Clique em "+" para buscar no GitHub.
 4. Os repositórios correspondentes serão exibidos e você pode interagir com eles diretamente do aplicativo.
 
+Imagem
+
+![Imagem do Projeto](/home/anderson/Imagens/Capturas de tela)
+
 Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias para este projeto, siga as etapas abaixo:
 
