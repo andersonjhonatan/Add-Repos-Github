@@ -35,7 +35,7 @@ Como usar
 
 Imagem
 
-![Imagem do projeto](file:///home/anderson/Imagens/projeto-respos.png)
+![Imagem do projeto](./projetos-pessoais/projeto.png)
 
 
 Contribuição
