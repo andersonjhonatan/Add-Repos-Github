@@ -1,10 +1,8 @@
-
-# GitHub Repos
+GitHub Repos
 
 O GitHub Repos é um projeto que permite adicionar repositórios ou buscar diretamente à sua conta no GitHub usando a API do GitHub. Com uma interface intuitiva e fácil de usar, este aplicativo foi desenvolvido com tecnologias modernas como React, Axios, Styled Components, hooks, ESLint e localStorage.
 
-## Recursos
-
+Recursos
 - Buscar repositórios ao GitHub de forma rápida e conveniente.
 - Integração com a API do GitHub para autenticação e interação com repositórios.
 - Interface amigável e responsiva.
@@ -14,48 +12,41 @@ O GitHub Repos é um projeto que permite adicionar repositórios ou buscar diret
 - Linting de código com ESLint para manter a qualidade do código.
 - Armazenamento local com localStorage para preservar informações importantes.
 
-## Instalação
-
+Instalação
 1. Clone este repositório em sua máquina local:
-
-   ```shell
    git clone https://github.com/seu-usuario/github-repo.git
-   
-Navegue até o diretório do projeto:
 
- ```shell
-2. cd github-repo-adder
+2. Navegue até o diretório do projeto:
+   cd github-repo-adder
 
- ```shell
-3. npm install
+3. Instale as dependências do projeto:
+   npm install
 
-## Inicie o aplicativo:
+4. Inicie o aplicativo:
+   npm start
 
-4. O aplicativo será executado no modo de desenvolvimento em http://localhost:3000.
- ```shell
- npm start
+   O aplicativo será executado no modo de desenvolvimento em http://localhost:3000.
 
-## Como usar
-Na página inicial, clique no botão "+".
-Coloca a informação do repositório: Exemplo: facebook/react.
-Clique em "+" para pesquisar no Github.
+Como usar
+1. Na página inicial, clique no botão "+".
+2. Insira as informações do repositório, por exemplo, "facebook/react".
+3. Clique em "+" para buscar no GitHub.
+4. Os repositórios correspondentes serão exibidos e você pode interagir com eles diretamente do aplicativo.
 
-## Contribuição
+Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias para este projeto, siga as etapas abaixo:
 
-## Fork este repositório.
+1. Fork este repositório.
+2. Crie uma nova branch para suas modificações:
+   git checkout -b feature/sua-feature
 
-5. Crie uma nova branch para suas modificações:
- ```shell
-git checkout -b feature/sua-feature
+3. Faça as alterações desejadas e faça commit das mesmas:
+   git commit -am 'Adicionando minha feature'
 
-Faça as alterações desejadas e faça commit das mesmas:
- ```shell
-git commit -am 'Adicionando minha feature'
-Envie suas alterações para o seu fork:
- ```shell
-git push origin feature/sua-feature
-Envie uma Pull Request neste repositório, descrevendo suas modificações.
+4. Envie suas alterações para o seu fork:
+   git push origin feature/sua-feature
+
+5. Envie uma Pull Request neste repositório, descrevendo suas modificações.
 
 Licença
 Este projeto está licenciado sob a MIT License.
