@@ -20,32 +20,35 @@ O GitHub Repos é um projeto que permite adicionar repositórios ou buscar diret
 
    ```shell
    git clone https://github.com/seu-usuario/github-repo.git
+   
 Navegue até o diretório do projeto:
 
  ```shell
-cd github-repo-adder
+2. cd github-repo-adder
 
  ```shell
-npm install
+3. npm install
 
-Inicie o aplicativo:
+## Inicie o aplicativo:
+
+4. O aplicativo será executado no modo de desenvolvimento em http://localhost:3000.
  ```shell
-npm start
-O aplicativo será executado no modo de desenvolvimento em http://localhost:3000.
+ npm start
 
-Como usar
+## Como usar
 Na página inicial, clique no botão "+".
 Coloca a informação do repositório: Exemplo: facebook/react.
 Clique em "+" para pesquisar no Github.
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias para este projeto, siga as etapas abaixo:
 
-Fork este repositório.
+## Fork este repositório.
 
-Crie uma nova branch para suas modificações:
+5. Crie uma nova branch para suas modificações:
  ```shell
 git checkout -b feature/sua-feature
+
 Faça as alterações desejadas e faça commit das mesmas:
  ```shell
 git commit -am 'Adicionando minha feature'
