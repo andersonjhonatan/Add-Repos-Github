@@ -35,7 +35,7 @@ Como usar
 
 Imagem
 
-![Descrição da imagem](file:///home/anderson/Imagens/projeto-respos.png)
+![Imagem do projeto](file:///home/anderson/Imagens/projeto-respos.png)
 
 
 Contribuição
