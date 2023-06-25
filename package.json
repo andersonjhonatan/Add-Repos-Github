@@ -14,10 +14,10 @@
     "react-router-dom": "^6.13.0",
     "react-scripts": "^5.0.1",
     "semver": "^7.5.3",
+    "serve": "^14.2.0",
     "styled-components": "^6.0.0-rc.5",
     "web-vitals": "^2.1.4"
-  },
-  "scripts": {
+  },  "scripts": {
     "start": "react-scripts start",
     "lint": "eslint . --ext .js --ext .jsx",
     "build": "react-scripts build",
